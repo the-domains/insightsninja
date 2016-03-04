@@ -1,4 +1,4 @@
-name: insightsninja
+name: INSIGHTS NINJA
 favicon: null
 layout_spectrum: 0.3636779293883592
 typography_spectrum: 0.24613164318725467
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5301390215754509
-  lightness: 0.2457324075512588
-  saturation: 0.32714056596159935
-  rhythmicContrast: 0.7730867571663111
+    - '#ffffff'
+    - '#fe430c'
+    - '#000271'
+    - '#77888f'
+    - '#fe8764'
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
